@@ -1,15 +1,14 @@
-# kodluyoruzilkrepo
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 # **Kodluyoruz İlk Repo**
 
 -----------------------------------
 
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+![image](https://user-images.githubusercontent.com/116013912/198568027-15be3486-209b-4530-9890-5b76fcc9a49d.png)
 
 
 
-## Installation
+### Installation
 
 --------------------
 
@@ -21,7 +20,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-## Contributing
+### Contributing
 
 -----------
 
@@ -29,7 +28,7 @@ Pull requestler kabul edilir.Büyük değişikler için,lütfen önce neyi deği
 
 
 
-## License
+### License
 
 --------
 
