@@ -11,9 +11,9 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 ### Installation
 
 --------------------
-
+***
 - git clone https://github.com/sedasc/kodluyoruzilkrepo
-
+***
 
 
 ### Usage
